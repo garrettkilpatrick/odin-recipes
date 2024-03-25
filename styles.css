@@ -1,0 +1,38 @@
+.list-items{
+    font-weight: bold;
+    font-size: 30px;
+    background-color: lightgoldenrodyellow;
+    text-align: left;
+}
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+html{
+    background-color: lightblue;
+}
+
+h1{
+    font-weight: bold;
+    font-size: 55px;
+    color:lightblue;
+    background-color: darkblue;
+    text-align: center;
+}
+
+/* For image alignment I looked up how to center it */
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
